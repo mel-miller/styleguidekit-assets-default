@@ -8,16 +8,13 @@ This code is responsible for creating Pattern Lab's UI look, feel, and functiona
 ## Installation
 
 ### Node
-Pattern Lab Node uses [npm](https://www.npmjs.com/) to manage project dependencies. To install the default static assets run:
-
-    npm install @pattern-lab/styleguidekit-assets-default
-
+N/A
 
 ### PHP 
 
 Pattern Lab PHP uses [Composer](https://getcomposer.org/) to manage project dependencies. To install the default static assets run:
 
-    composer require pattern-lab/styleguidekit-assets-default
+    composer require mel-miller/styleguidekit-assets-default
 
 ## Development Requirements
 
